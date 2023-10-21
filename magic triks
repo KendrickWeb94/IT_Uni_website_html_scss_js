@@ -1,0 +1,19 @@
+Font awesome cdnjs
+
+pexels 
+
+iconfinder
+
+undraw
+
+Google fonts _Spartans 
+             _Nunito
+             _Poppins
+
+$green:#0eb582;
+$light-green:#f0fdfa;
+$light-color:#777;
+$black:#444;
+$white:#fff;
+$border:.1rem solid $green;
+$box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
